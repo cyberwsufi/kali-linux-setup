@@ -39,7 +39,7 @@ Week 1 Cybersecurity Internship - Kali Linux Installation and Setup
 9. [Author](#author)
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 The objective of this task was to set up and run a functional Kali Linux virtual machine as the foundation for hands-on cybersecurity learning.
 
