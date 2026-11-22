@@ -28,15 +28,18 @@ Week 1 Cybersecurity Internship - Kali Linux Installation and Setup
 
 ## 📌 Table of Contents
 
-1. [🎯 Project Overview](project-overview)
-2. [🛠️ Lab Environment](#lab-environment)
-3. [⚙️ Hardware Configuration](#hardware-configuration)
-4. [🚀 Setup Process](#setup-process)
-5. [🌐 Internet Connectivity Test](#internet-connectivity-test)
-6. [📸 Screenshots](#screenshots)
-7. [✅ Week 1 Checklist](#week-1-checklist)
-8. [📚 Key Learnings](#key-learnings)
-9. [👩‍💻 Author](#author)
+- [🎯 Project Overview](#-project-overview)
+- [🛠️ Lab Environment](#%EF%B8%8F-lab-environment)
+- [⚙️ Hardware Configuration](#%EF%B8%8F-hardware-configuration)
+- [🚀 Setup Process](#-setup-process)
+- [🌐 Internet Connectivity Test](#-internet-connectivity-test)
+- [📸 Screenshots](#-screenshots)
+- [✅ Week 1 Checklist](#-week-1-checklist)
+- [📚 Key Learnings](#-key-learnings)
+- [👩‍💻 Author](#-author)
+
+---
+
 ---
 
 ## 🎯 Project Overview
