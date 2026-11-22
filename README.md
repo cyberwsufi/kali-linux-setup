@@ -1,27 +1,42 @@
 # kali-linux-setup
 Week 1 Cybersecurity Internship - Kali Linux Installation and Setup
 
-# 🔐 Kali Linux Lab Setup
+ <h1 align="center">🔐 Kali Linux Lab Setup</h1>
 
-### CYBERSECURITY INTERNSHIP · WEEK 01
+<hr>
 
-Building my cybersecurity foundation, one lab at a time.
+<h2 align="center">NETWORKWALKS · CYBERSECURITY INTERNSHIP · WEEK 01</h2>
 
-A documented setup of my Kali Linux virtual machine using VMware Workstation on Windows.
+<p align="center">
+  <strong>Building my cybersecurity foundation, one lab at a time.</strong>
+</p>
 
----
+<p align="center">
+  A documented setup of my Kali Linux virtual machine using VMware Workstation Pro on Windows.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/VIRTUALIZATION-VMWARE-606060?style=for-the-badge&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/HOST-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA44F?style=for-the-badge">
+</p>
+
+<hr>
 
 ## 📌 Table of Contents
 
-- [🎯 Project Overview](#-project-overview)
-- [🛠️ Lab Environment](#️-lab-environment)
-- [⚙️ Hardware Configuration](#️-hardware-configuration)
-- [🚀 Setup Process](#-setup-process)
-- [🌐 Internet Connectivity Test](#-internet-connectivity-test)
-- [📸 Screenshots](#-screenshots)
-- [✅ Week 1 Checklist](#-week-1-checklist)
-- [📚 Key Learnings](#-key-learnings)
-- [👩‍💻 Author](#-author)
+- [Project Overview](#project-overview)
+- [Lab Environment](#lab-environment)
+- [Hardware Configuration](#hardware-configuration)
+- [Setup Process](#setup-process)
+- [Internet Connectivity Test](#internet-connectivity-test)
+- [Screenshots](#screenshots)
+- [Week 1 Checklist](#week-1-checklist)
+- [Key Learnings](#key-learnings)
+- [Author](#author)
 
 ---
 
@@ -49,7 +64,7 @@ I installed Kali Linux using VMware Workstation and verified that the virtual ma
 |---|---|
 | Task | Week 1 — Kali Linux Lab Setup |
 | Host Operating System | Windows |
-| Virtualization Software | VMware Workstation |
+| Virtualization Software | VMware Workstation Pro |
 | Guest Operating System | Kali Linux |
 | Kernel Version | 6.12.25-amd64 |
 | Architecture | x86_64 |
@@ -61,7 +76,7 @@ I installed Kali Linux using VMware Workstation and verified that the virtual ma
 
 ## ⚙️ Hardware Configuration
 
-The Kali Linux virtual machine is configured with the following virtual hardware components:
+The Kali Linux virtual machine includes the following virtual hardware components:
 
 | Component | Description |
 |---|---|
@@ -81,7 +96,7 @@ These settings can be viewed through the VMware virtual machine settings.
 
 Downloaded the Kali Linux installation image from the official website.
 
-Official download page: https://www.kali.org/get-kali/
+Official Download Page: https://www.kali.org/get-kali/
 
 ### Step 2 — Install VMware Workstation
 
@@ -101,7 +116,7 @@ Opened the Kali Linux terminal and explored basic Linux commands.
 
 ### Step 6 — Check System Information
 
-Used the following command to check the kernel version and system architecture:
+Used the following command to check the Linux kernel version and system architecture:
 
 ```bash
 uname -a
@@ -205,16 +220,20 @@ Through this task, I gained practical experience with:
 
 ---
 
-## - [Author](#author)
+## 👩‍💻 Author
 
 **Sufiyan Pathan**
 
 Cybersecurity Learner
 
-Week 1 — Kali Linux Lab Setup
+Cybersecurity Internship — Week 1
 
 ---
 
-🔐 Learn · Practice · Document · Improve
+<p align="center">
+  <strong>🔐 LEARN · PRACTICE · DOCUMENT · IMPROVE</strong>
+</p>
 
-Building a strong foundation in cybersecurity.
+<p align="center">
+  Building a strong foundation in cybersecurity.
+</p>
