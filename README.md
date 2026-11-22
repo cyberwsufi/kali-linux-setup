@@ -205,7 +205,7 @@ Through this task, I gained practical experience with:
 
 ---
 
-## 👩‍💻 Author
+## - [Author](#author)
 
 **Sufiyan Pathan**
 
